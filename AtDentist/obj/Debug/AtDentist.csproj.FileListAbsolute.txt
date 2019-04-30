@@ -1,0 +1,5 @@
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\AtDentist\bin\Debug\AtDentist.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\AtDentist\bin\Debug\AtDentist.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\AtDentist\obj\Debug\AtDentist.csproj.CoreCompileInputs.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\AtDentist\obj\Debug\AtDentist.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\AtDentist\obj\Debug\AtDentist.pdb

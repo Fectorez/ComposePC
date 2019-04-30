@@ -1,0 +1,5 @@
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\SolarSystem\bin\Debug\SolarSystem.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\SolarSystem\bin\Debug\SolarSystem.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\SolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\SolarSystem\obj\Debug\SolarSystem.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\SolarSystem\obj\Debug\SolarSystem.pdb

@@ -1,0 +1,6 @@
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ClientService\bin\Debug\ClientService.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ClientService\bin\Debug\ClientService.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ClientService\obj\Debug\ClientService.csprojAssemblyReference.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ClientService\obj\Debug\ClientService.csproj.CoreCompileInputs.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ClientService\obj\Debug\ClientService.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ClientService\obj\Debug\ClientService.pdb

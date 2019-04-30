@@ -1,0 +1,6 @@
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\HotelComparator\bin\Debug\HotelComparator.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\HotelComparator\bin\Debug\HotelComparator.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\HotelComparator\obj\Debug\HotelComparator.csprojAssemblyReference.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\HotelComparator\obj\Debug\HotelComparator.csproj.CoreCompileInputs.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\HotelComparator\obj\Debug\HotelComparator.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\HotelComparator\obj\Debug\HotelComparator.pdb

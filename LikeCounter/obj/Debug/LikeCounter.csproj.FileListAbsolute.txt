@@ -1,0 +1,5 @@
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\LikeCounter\bin\Debug\LikeCounter.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\LikeCounter\bin\Debug\LikeCounter.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\LikeCounter\obj\Debug\LikeCounter.csproj.CoreCompileInputs.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\LikeCounter\obj\Debug\LikeCounter.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\LikeCounter\obj\Debug\LikeCounter.pdb

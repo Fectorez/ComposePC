@@ -1,0 +1,6 @@
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\DataCompression\bin\Debug\DataCompression.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\DataCompression\bin\Debug\DataCompression.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\DataCompression\obj\Debug\DataCompression.csprojAssemblyReference.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\DataCompression\obj\Debug\DataCompression.csproj.CoreCompileInputs.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\DataCompression\obj\Debug\DataCompression.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\DataCompression\obj\Debug\DataCompression.pdb

@@ -1,0 +1,5 @@
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\bibclassesnetfram\bin\Debug\bibclassesnetfram.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\bibclassesnetfram\bin\Debug\bibclassesnetfram.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\bibclassesnetfram\obj\Debug\bibclassesnetfram.csproj.CoreCompileInputs.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\bibclassesnetfram\obj\Debug\bibclassesnetfram.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\bibclassesnetfram\obj\Debug\bibclassesnetfram.pdb

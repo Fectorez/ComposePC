@@ -1,0 +1,6 @@
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ComposePC\bin\Debug\ComposePC.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ComposePC\bin\Debug\ComposePC.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ComposePC\obj\Debug\ComposePC.csproj.CoreCompileInputs.cache
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ComposePC\obj\Debug\ComposePC.dll
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ComposePC\obj\Debug\ComposePC.pdb
+D:\Documents\ESGI\design-patterns\tp-composer-pc\DesignPatterns\DotNetFramework\ComposePC\obj\Debug\ComposePC.csprojAssemblyReference.cache
